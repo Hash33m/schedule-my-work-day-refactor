@@ -16,7 +16,7 @@ Build and compile the codebase.
 Launch the application using provided command or script.
 
 # Screenshot
-<img src="./assets/img/Screenshot 2023-04-10 at 10.48.36 PM.png">
+<img src="./assets/img/Screenshot 2023-04-10 at 10.48.36 PM.jpg">
 
 # Credits
 N/A
